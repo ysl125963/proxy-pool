@@ -13,7 +13,7 @@ headers = {
 # 数据库设置
 redis_host = 'localhost'
 redis_port = 6379
-redis_password = 'ysl1994914'
+redis_password = ''
 
 # 测试开关
 tester_enable = True
